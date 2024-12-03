@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0a3e1a95f0d96a549860a63ff295b6a2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Magic School Two
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 73640eca70aaa514f8c813c0db974ec9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
